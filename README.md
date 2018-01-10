@@ -4,6 +4,7 @@ https://beginnersbook.com/2017/10/java-8-stringjoiner/ </br>
 http://www.baeldung.com/java-8-lambda-expressions-tips </br>
 https://www.codementor.io/eh3rrera/using-java-8-method-reference-du10866vx </br>
 http://tutorials.jenkov.com/java/lambda-expressions.html </br>
+https://blog.idrsolutions.com/2015/02/java-8-method-references-explained-5-minutes/ </br>
 
 <h2>Functional programming <h2>
 
