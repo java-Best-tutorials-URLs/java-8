@@ -8,9 +8,9 @@ https://blog.idrsolutions.com/2015/02/java-8-method-references-explained-5-minut
 
 <h2>Advantages of Lamda</h2>
 https://www.nagarro.com/de/perspectives/post/26/lambda-expressions-in-java-8-why-and-how-to-use-them
-1. Fewer Lines of Code
-2. Sequential and Parallel Execution Support by passing behavior in methods
-3. Higher Efficiency (Utilizing Multicore CPU’s)
+1. Fewer Lines of Code </br>
+2. Sequential and Parallel Execution Support by passing behavior in methods </br>
+3. Higher Efficiency (Utilizing Multicore CPU’s)</br>
 
 <h2>Functional programming <h2>
 
